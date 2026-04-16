@@ -19,4 +19,4 @@ Vision-Project-Document-Detection/
 
 ## Reference
 
-**Paper:** *A Cascaded YOLO-OCR Pipeline for Document Analysis in Natural Images*  
+**Paper:** *A Hierarchical YOLO-Based Pipeline for Document Analysis in Natural Images*  
